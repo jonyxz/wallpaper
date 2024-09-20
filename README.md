@@ -1,6 +1,6 @@
 # My Curated Wallpaper Collection
 
-A curated collection of wallpapers inspired by the popular themes **Catppuccin**, **Tokyo Night**, and **Nord**, designed specifically for tiling window managers like **Hyprland**, **i3**, **AwesomeWM**, and **BSPWM**. These wallpapers are crafted to complement minimalist setups and bring a calm, consistent aesthetic to your desktop.
+A curated collection of wallpapers inspired by the themes **Catppuccin**, **Tokyo Night**, and **Nord**, specifically designed for tiling window managers like **Hyprland**, **i3**, **AwesomeWM**, and **BSPWM**. These wallpapers are selected to complement minimalist setups and bring a calm, consistent aesthetic to your desktop.
 
 ## 🎨 Why This Collection?
 
@@ -51,3 +51,7 @@ To keep your collection up-to-date, simply pull the latest changes:
   cd ~/wallpaper
   git pull
   ```
+
+## 🙏 Acknowledgments
+
+Thanks to the creators of the **Catppuccin**, **Tokyo Night**, and **Nord** themes for their inspiring designs. This collection aims to celebrate their work and provide a serene aesthetic for users of tiling window managers.
