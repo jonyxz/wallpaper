@@ -28,9 +28,9 @@ A curated collection of wallpapers inspired by the popular themes **Catppuccin**
 
 If you're using **Hyprland**, use `swww` to set your wallpaper:
 
-```bash
-swww img ~/wallpaper/<wallpaper-name>
-```
+  ```bash
+  swww img ~/wallpaper/<wallpaper-name>
+  ```
 
 Make sure that `swww` is running to dynamically handle wallpaper changes.
 
@@ -38,16 +38,16 @@ Make sure that `swww` is running to dynamically handle wallpaper changes.
 You can also use other wallpaper managers:
 
 * feh: 
-```bash
-feh --bg-scale ~/wallpaper/<wallpaper-name>
-```
+  ```bash
+  feh --bg-scale ~/wallpaper/<wallpaper-name>
+  ```
 
 * nitrogen: Open `nitrogen`, navigate to the `~/wallpaper/` folder, and choose your wallpaper.
 
 ## 🔄 Updates
 To keep your collection up-to-date, simply pull the latest changes:
 
-```bash
-cd ~/wallpaper
-git pull
-```
+  ```bash
+  cd ~/wallpaper
+  git pull
+  ```
